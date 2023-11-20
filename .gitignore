@@ -1,0 +1,14 @@
+# Environment files
+.env
+
+# Data volume directories
+data/
+
+# Log files
+*.log
+
+# Cache files
+.cache/
+
+# OS-specific system files
+.DS_Store
