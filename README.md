@@ -13,6 +13,7 @@ Before running, configure the environment variables
 To run the project, use the following command in the project's root directory:
 ```bash
 docker-compose up
+```
 
 ## Usages
 Access pgAdmin at http://localhost:5050 and use the credentials provided in the environment variables to log in.
